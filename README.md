@@ -6,3 +6,5 @@ I was a research assistant for a Columbia-Harvard joint project on the impact of
 My main job was to code in Google Earth Engine to visualize and analyze geo-spatial satellite data.
 
 This is a sample code that visualized the forest loss over a time period and individual years.
+
+![Alt text](https://raw.githubusercontent.com/yyilun/earth_engine/master/screencap.jpg "Screen Cap")
